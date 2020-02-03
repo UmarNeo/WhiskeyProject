@@ -5,13 +5,18 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)
 
+@app.route('/', methods=['GET'])
+def hello():
+    return 'rest api'
 
-@app.route('/', methods=['POST'])
+
+
+@app.route('/price_pred', methods=['POST'])
 def index():
     value = request.json['percentage']
     cls = Calculate(value)
     out = cls.main()
-    print(out)
+    print('result_sent')
     # result = {"output":out}
     #return jsonify(out)
     response=jsonify(out)
