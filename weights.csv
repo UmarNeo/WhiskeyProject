@@ -1,0 +1,149 @@
+,Column Name,Coefficient,Axis,New Brand,Age,next_price
+0,price,62.26695536,Performance,Laphroaig,10,52.3
+1,Age,0.86946706,Potential,Talisker,0,58.4
+2,volume,0.048484429,Performance,Cardhu,0,53.7
+3,next_volume,-0.883059188,Performance,Laphroaig,0,41.6
+4,luxury principal component 1,-0.541884664,Potential,Dalwhinnie,0,53.7
+5,luxury principal component 2,-1.066893189,Potential,Lagavulin,16,73.8
+6,Category 2_Blended Scotch,-0.614002063,Performance,The Macallan,0,53.7
+7,Category 3_Blended Malt,0.041453911,Performance,Glenfiddich,15,52.3
+8,Category 3_Blended Scotch Traditional,-0.667355544,Performance,Other,0,59
+9,Category 3_Grain Scotch,0.090919478,Performance,Balblair,0,53.7
+10,Category 3_Highland Malt,0.237199761,Performance,Ardbeg,10,53.3
+11,Category 3_Islay Malt,1.052264842,Performance,Oban,14,64.7
+12,Category 3_Jura Malt,0.413621347,Performance,Bunnahabhain,12,59
+13,Category 3_Lowland Malt,-0.890562595,Performance,Dalwhinnie,15,52.7
+14,Category 3_Malt Scotch Range,-1.781398148,Performance,Talisker,0,47
+15,Category 3_Mull Malt,0.455244649,Performance,Johnnie Walker,0,55.7
+16,Category 3_Orkney Malt,0.313658182,Performance,Rare Malts,0,161.2
+17,Category 3_Skye Malt,0.00804041,Performance,Scapa,16,80.5
+18,Price Band_Prestige,-15.06529843,Potential,Dalmore,12,56.1
+19,Price Band_Ultra Premium,-24.78948434,Potential,Bruichladdich,0,56.1
+20,New Brand_Auchentoshan,0.95252419,Potential,Highland Park,0,53.7
+21,New Brand_Balblair,-0.042322808,Potential,The Glenlivet,0,60.5
+22,New Brand_Balvenie,-0.753429359,Potential,Johnnie Walker,0,57.6
+23,New Brand_Bunnahabhain,0.618053354,Potential,Balvenie,14,69.8
+24,New Brand_Caol Ila,-0.23261747,Potential,Haig,0,53.7
+25,New Brand_Cragganmore,-0.204456772,Potential,Glenkinchie,0,52.1
+26,New Brand_Edradour,-0.2289336,Potential,Johnnie Walker,0,181
+27,New Brand_Glen Elgin 12yr,-0.145231072,Potential,Lagavulin,8,68.5
+28,New Brand_GlenDronach,0.362961577,Potential,The Macallan,21,502.5
+29,New Brand_Glenfiddich,0.556136501,Potential,Glenfiddich,0,60.3
+30,New Brand_Glenmorangie,-1.56028376,Potential,Dalmore,15,83
+31,New Brand_Glenturret,-0.146984577,Potential,Caol Ila,12,56.5
+32,New Brand_Highland Park,0.583654254,Potential,Glenallachie,0,52.3
+33,New Brand_Lagavulin,0.158362823,Potential,Bowmore,0,50.3
+34,New Brand_Ledaig,-0.255007477,Potential,Aberlour,0,64
+35,New Brand_Mortlach,-0.106377826,Potential,Auchentoshan,0,61.7
+36,New Brand_Oban,0.013560208,Potential,Jura,0,73.7
+37,New Brand_Remarkable Regional Malts,-0.530531052,Potential,Laphroaig,0,55.7
+38,New Brand_Tomatin,0.507863498,Potential,GlenDronach,12,53
+,,,,Cragganmore,12,51.5
+,,,,Clynelish,14,60.4
+,,,,Auchentoshan,12,48.3
+,,,,Chivas,18,77.9
+,,,,Oban,0,70.1
+,,,,Ledaig,0,50.3
+,,,,Rare Malts,0,309
+,,,,Talisker,0,66.8
+,,,,GlenDronach,0,53
+,,,,Edradour,0,53.7
+,,,,GlenDronach,18,107.4
+,,,,Glenturret,0,61.2
+,,,,The Macallan,12,67
+,,,,The Glenlivet,0,60.4
+,,,,Glenglassaugh,0,57.6
+,,,,Jura,12,57.6
+,,,,The Glenlivet,15,73.2
+,,,,The Glenlivet,18,120.9
+,,,,Other,0,309
+,,,,Knockando,12,44.1
+,,,,Bowmore,15,71.1
+,,,,Remarkable Regional Malts,0,49.7
+,,,,Dalmore,18,143.5
+,,,,Auchentoshan,18,106.9
+,,,,Jura,0,201.5
+,,,,Glenfiddich,18,90
+,,,,Highland Park,25,483.7
+,,,,Talisker,57,95.7
+,,,,Balvenie,15,117.6
+,,,,GlenDronach,0,147.7
+,,,,GlenDronach,21,147.7
+,,,,Talisker,0,83.1
+,,,,BenRiach,10,47
+,,,,BenRiach,10,47.8
+,,,,That Boutique-y Whisky Company,0,90
+,,,,Balvenie,17,120.9
+,,,,Jura,18,99.1
+,,,,Royal Salute by Chivas,21,150.5
+,,,,Jura,0,70.6
+,,,,Jura,12,62.2
+,,,,Fettercairn,0,62.1
+,,,,Glen Elgin 12yr,12,53.7
+,,,,Dalmore,0,105.1
+,,,,Other,0,67.2
+,,,,Glenfiddich,0,115.5
+,,,,Other,0,470.2
+,,,,Dalmore,0,235.1
+,,,,Glenmorangie,18,107.4
+,,,,Jura,16,69.8
+,,,,Laphroaig,0,64.5
+,,,,Royal Lochnagar,0,50.8
+,,,,Bowmore,0,54.3
+,,,,Lagavulin,21,174.7
+,,,,Bunnahabhain,0,51.5
+,,,,BenRiach,0,75.2
+,,,,Highland Park,18,147.8
+,,,,Tobermory,0,67.1
+,,,,Other,0,123.6
+,,,,Aultmore,12,60.4
+,,,,Mortlach,0,49.6
+,,,,Bowmore,16,92.7
+,,,,Remarkable Regional Malts,0,54.6
+,,,,Wolfburn,0,65.5
+,,,,Tomatin,0,64.4
+,,,,Tomatin,14,72.3
+,,,,GlenDronach,0,54.3
+,,,,Bunnahabhain,0,73.8
+,,,,Laphroaig,18,178.9
+,,,,Dalmore,0,201.5
+,,,,Aberfeldy,16,76.9
+,,,,Fettercairn,0,56.1
+,,,,Royal Brackla,12,62.2
+,,,,Cardhu,0,71.3
+,,,,Glenfiddich,0,57.6
+,,,,The Macallan,0,80.5
+,,,,Tomatin,18,87.3
+,,,,Tomatin,0,67.9
+,,,,Bowmore,18,107.4
+,,,,Bowmore,25,400.4
+,,,,Bunnahabhain,0,71.8
+,,,,Johnnie Walker,18,102.1
+,,,,Other,0,134.4
+,,,,Wolfburn,0,61.7
+,,,,Aberfeldy,21,177.3
+,,,,Glenfiddich,14,53
+,,,,Jura,0,117.9
+,,,,Bunnahabhain,18,141.1
+,,,,Glenfiddich,21,181
+,,,,Balvenie,21,182.7
+,,,,Jura,0,164.5
+,,,,Talisker,0,80.3
+,,,,Highland Park,0,113.9
+,,,,Balvenie,12,67.9
+,,,,Dewar's,0,335.8
+,,,,Johnnie Walker,18,102.1
+,,,,Craigellachie,0,64.4
+,,,,Darkness!,0,80.5
+,,,,Cardhu,0,53.2
+,,,,The Macallan,10,94
+,,,,Highland Park,10,60.4
+,,,,Royal Lochnagar,0,157.421875
+,,,,The Singleton,15,45.390625
+,,,,Johnnie Walker,18,43.26171875
+,,,,Dalwhinnie,12,36.71875
+,,,,Glen Garioch,0,40.625
+,,,,BenRiach,0,26.904296875
+,,,,Talisker,0,96.5625
+,,,,The Singleton,18,68.5
+,,,,The Singleton,0,36.71875
